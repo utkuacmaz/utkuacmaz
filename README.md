@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+I'm Utku Açmaz, a freshman Computer Science student at Bilkent University
+
 <!--
 **utkuacmaz/utkuacmaz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
